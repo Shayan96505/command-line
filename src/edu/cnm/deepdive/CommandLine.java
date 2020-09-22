@@ -1,7 +1,5 @@
 package edu.cnm.deepdive;
 
-import java.util.Arrays;
-
 public class CommandLine {
 
   public static void main(String[] args) {
